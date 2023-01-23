@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    CEST BON 
+    CEST BON Bon travail
 </body>
 </html>
